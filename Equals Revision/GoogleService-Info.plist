@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>441739682500-matq1537oqo0tqs4ft0ss0e57lkbl5ql.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.441739682500-matq1537oqo0tqs4ft0ss0e57lkbl5ql</string>
+	<key>API_KEY</key>
+	<string>AIzaSyChV0l3a8Dl6TH_HcJc8VJ9sRdW-cAfhtc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>441739682500</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>boanas.com.Equals-Revision</string>
+	<key>PROJECT_ID</key>
+	<string>equals-revision</string>
+	<key>STORAGE_BUCKET</key>
+	<string>equals-revision.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:441739682500:ios:2e334be4b788fce3a65f91</string>
+	<key>DATABASE_URL</key>
+	<string>https://equals-revision.firebaseio.com</string>
+</dict>
+</plist>
